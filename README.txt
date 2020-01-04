@@ -1,4 +1,4 @@
-This is a Mini CMS which we have developed for storing and maintaining courses, departments and examination data. It has developed by a team of two members. It 
+This is a Mini CMS which we have developed for storing and maintaining courses, departments and examination data. It has developed by a team of three members. It 
 has three views. 
 
 1) Department
